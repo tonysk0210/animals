@@ -2,3 +2,6 @@ rusty
 blue
 scout
 chickens
+
+monty
+mocha
